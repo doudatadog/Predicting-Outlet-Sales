@@ -35,5 +35,16 @@ As stated on [Evaluation Metric](https://datahack.analyticsvidhya.com/contest/pr
 Submission needs to be in the format as shown in ["SampleSubmission.csv"](https://datahack-prod.s3.ap-south-1.amazonaws.com/sample_submission/SampleSubmission_TmnO39y.csv "Sample Submission Format").
 
 ## Summary
-I have first calculated the least RMSE error on the train dataset for each of *RandomForestRegressor*, *GradientBoostingRegressor* and *XGBoost*
-Then which ever model has least RMSE is used on test data. This is done so that the code runs optimised on private the data test.
+I built a sckit-learn pipeline which will help with one line of code perform the following task :
+     - For numeric data :
+       * Fill null values with median values
+       * Build variables with Quantiles
+       * Compute polynomial features
+       * Scale variables
+     - For categorical data :
+       * Fill null values with mode values
+       * Build binary variables
+       * Create numeric values for variables like outlet-size
+
+This allowed me to build a randomn forest and xgboost models which best submission result was 1152.
+
