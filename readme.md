@@ -36,15 +36,15 @@ Submission needs to be in the format as shown in ["SampleSubmission.csv"](https:
 
 ## Summary
 I built a sckit-learn pipeline which will help with one line of code perform the following task :
-     - For numeric data :
-       * Fill null values with median values
-       * Build variables with Quantiles
-       * Compute polynomial features
-       * Scale variables
-     - For categorical data :
-       * Fill null values with mode values
-       * Build binary variables
-       * Create numeric values for variables like outlet-size
+-For numeric data :
+       *Fill null values with median values
+       *Build variables with Quantiles
+       *Compute polynomial features
+       *Scale variables
+-For categorical data :
+       *Fill null values with mode values
+       *Build binary variables
+       *Create numeric values for variables like outlet-size
 
 This allowed me to build a randomn forest and xgboost models which best submission result was 1152.
 
