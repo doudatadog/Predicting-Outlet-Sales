@@ -35,7 +35,7 @@ As stated on [Evaluation Metric](https://datahack.analyticsvidhya.com/contest/pr
 Submission needs to be in the format as shown in ["SampleSubmission.csv"](https://datahack-prod.s3.ap-south-1.amazonaws.com/sample_submission/SampleSubmission_TmnO39y.csv "Sample Submission Format").
 
 ## Summary
-I built a sckit-learn pipeline which will help with one line of code perform the following task :
+I built a sckit-learn pipeline which allow with one line of code to perform the following tasks :
 
 - For numeric data :
 
