@@ -45,7 +45,7 @@ I built a sckit-learn pipeline which will help with one line of code perform the
 
   Compute polynomial features.
 
-Scale variables.
+  Scale variables.
        
 - For categorical data :
 
