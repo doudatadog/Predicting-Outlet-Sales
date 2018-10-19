@@ -39,20 +39,20 @@ I built a sckit-learn pipeline which will help with one line of code perform the
 
 - For numeric data :
 
-Fill null values with median values.
+  Fill null values with median values.
 
-Build variables with Quantiles.
+  Build variables with Quantiles.
 
-Compute polynomial features.
+  Compute polynomial features.
 
 Scale variables.
        
 - For categorical data :
 
-Fill null values with mode values.
+  Fill null values with mode values.
 
-Build binary variables.
+  Build binary variables.
 
-Create numeric values for variables like outlet-size.
+  Create numeric values for variables like outlet-size.
 
 This allowed me to build a randomn forest and xgboost models which best submission result was 1152.
