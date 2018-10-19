@@ -35,7 +35,7 @@ As stated on [Evaluation Metric](https://datahack.analyticsvidhya.com/contest/pr
 Submission needs to be in the format as shown in ["SampleSubmission.csv"](https://datahack-prod.s3.ap-south-1.amazonaws.com/sample_submission/SampleSubmission_TmnO39y.csv "Sample Submission Format").
 
 ## Summary
-I built a sckit-learn pipeline which allow with one line of code to perform the following tasks :
+I built a scikit-learn pipeline which allows with one line of code to perform the following tasks :
 
 - For numeric data :
 
@@ -55,4 +55,6 @@ I built a sckit-learn pipeline which allow with one line of code to perform the 
 
   Create numeric values for variables like outlet-size.
 
-This allowed me to build a randomn forest and xgboost models which best submission result was 1152.
+This helped me build randomn forest and xgboost models .
+
+The best submission result was RMSE = 1152 .
