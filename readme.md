@@ -58,3 +58,7 @@ I built a scikit-learn pipeline which allows with one line of code to perform th
 This helped me build randomn forest and xgboost models .
 
 The best submission result was RMSE = 1152 .
+
+## Bibliography
+
+Part 1 [Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
