@@ -1,7 +1,7 @@
-# Big Mart Sales
+# Big Mart Sales III
 
 ## Problem Statement
-This is as found on [Big Mart Sales 3 Problem Statement](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/ "Big Mart Sales 3").
+The following description is just as found on [Big Mart Sales 3 Problem Statement](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/ "Big Mart Sales 3").
 
 **The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities.
 Also, certain attributes of each product and store have been defined.
